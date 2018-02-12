@@ -1,0 +1,2 @@
+g++ example.cpp strutil.cpp
+./a.out
