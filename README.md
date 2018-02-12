@@ -15,8 +15,8 @@ STRUTIL_ISSPACE // strutil uses isspace if STRUTIL_STRUTIL not defined
 
 All functions are in str namespace.
 
-strutil library is copyright (C) 2009-2011 Jani Kajala (kajala@gmail.com).
-Licensed under BSD/MIT license. See http://code.google.com/p/strutil/
+strutil library is copyright (C) 2009-2018 Jani Kajala (kajala@gmail.com).
+Licensed under BSD/MIT license.
 
 ## Install
 
